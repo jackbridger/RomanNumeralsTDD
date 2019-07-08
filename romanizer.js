@@ -2,7 +2,6 @@ if (typeof module !== 'undefined') {
     module.exports = romanizer;
 }
 
-
 const values = [
     {
         arabic: 1000,

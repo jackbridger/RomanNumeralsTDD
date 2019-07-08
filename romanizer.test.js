@@ -65,6 +65,10 @@ const values = [
     {
         arabic: 1,
         roman: 'I'        
+    },
+    {
+        arabic: 0,
+        roman: 'Oh no, zero hasn\'t been invented'
     }
 ]
 
